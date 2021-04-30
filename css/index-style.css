@@ -3,21 +3,28 @@
     background-color:rgb(6, 224, 159);
     color:rgb(1, 25, 48);
     height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
 
 .profile-pic
 {
     background-color: rgb(167, 164, 164);
-    border-radius: 25%;
+    padding: 10px;
+    border-radius: 50%;
     width: 250px;
     height: 250px;
     border: 10px solid;
-    border-color: black;
+    border-color: #4b5452;
+    box-shadow: #07100e 0px 0px 100px;
 }
 
 .site-header-content
 {
     margin: 10px;
+    align-self: center;
 }
 body
 {

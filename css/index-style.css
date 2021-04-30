@@ -1,0 +1,30 @@
+.site-header
+{
+    background-color:rgb(6, 224, 159);
+    color:rgb(1, 25, 48);
+    height: 100vh;
+}
+
+.profile-pic
+{
+    background-color: rgb(167, 164, 164);
+    border-radius: 25%;
+    width: 250px;
+    height: 250px;
+    border: 10px solid;
+    border-color: black;
+}
+
+.site-header-content
+{
+    margin: 10px;
+}
+body
+{
+    
+    margin: 0%;
+}
+
+
+
+
